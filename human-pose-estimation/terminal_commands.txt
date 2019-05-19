@@ -1,0 +1,7 @@
+With human-pose-estimation as cwd...
+
+First, run setupvars.bat to set environment variables:
+    "C:\Program Files (x86)\IntelSWTools\openvino\bin\setupvars.bat"
+
+Second, to run python file:
+    python pose.py -m models/human-pose-estimation-0001/FP32/human-pose-estimation-0001.xml -i demo.mp4
