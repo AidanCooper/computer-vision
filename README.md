@@ -1,3 +1,3 @@
 # Computer Vision Projects
 
-Python templates for computer vision projects using the OpenVINO toolkit.
+Templates for computer vision projects using various toolkits.
